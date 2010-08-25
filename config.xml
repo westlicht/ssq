@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<ssq>
+	<string name="control_input" value="BCR2000 MIDI 1"/>
+	<string name="control_output" value="BCR2000 MIDI 1"/>
+	<string name="seq_input" value="BCR2000 MIDI 2"/>
+	<string name="seq_output" value="BCR2000 MIDI 2"/>
+</ssq>
